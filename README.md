@@ -12,7 +12,6 @@
 <br><br>
 
 - :student: I’m currently learning skills at `UTN Avellaneda` in a `Tecnicatura en programación`!
-- :nerd_face: Always `learning new things`.
 <br>
 
 
