@@ -12,7 +12,6 @@
 <br>
 - :student: I’m currently learning skills at `UTN Avellaneda` in a `Tecnicatura en programación`!
 <br>
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
