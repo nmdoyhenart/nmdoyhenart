@@ -23,6 +23,6 @@
 ## 🛠️ My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,python,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=git,java,python,html" />
   </a>
 </p>
