@@ -11,8 +11,8 @@
 - :nerd_face: `ALWAYS` ready to learn new skills!
 <br>
 
-## Work together <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture>
-<p align="right">
+## 📩 Meet me
+<p align="left">
 <a href="https://www.linkedin.com/in/ndoyhenart/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:nidoyhe@gmail.com?subject=Hello%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
