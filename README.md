@@ -10,8 +10,8 @@
 
 <br><br>
 - :man_student: I´m a passionate of technology. Actually, i live in `Buenos Aires`. I´m `19 years old`, i can speak `English` and my natal language.
-- :computer: I’m currently studying at `UTN FRA (Facultad regional avellaneda)` in a `Tecnicatura unviersitaria en programación`!
-- :nerd_face: ¡`ALWAYS` ready to learn new skills!
+- :computer: I’m currently studying at `UTN FRA (Facultad regional avellaneda)` in a `Tecnicatura unviersitaria en programación`.
+- :nerd_face: `ALWAYS` ready to learn new skills!
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture>
@@ -23,6 +23,13 @@
 ## 🛠️ My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,python,html" />
+    <img src="https://skillicons.dev/icons?i=git,github,java,python,html,sqlite" />
+  </a>
+</p>
+
+## 🦾 Others
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,netbeans,ps,notion" />
   </a>
 </p>
