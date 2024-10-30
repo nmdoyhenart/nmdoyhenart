@@ -31,4 +31,4 @@
   </a>
 </p>
 
-## Checkout my proyects 👇
+<h2 align="center">Checkout my proyects 👇</h2>
