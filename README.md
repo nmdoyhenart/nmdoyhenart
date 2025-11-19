@@ -7,7 +7,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br><br>
-- :man_student: I live in `Temperley, Buenos Aires`. I´m `19 years old`, i can speak `English` and my natal language.
+- :man_student: I live in `Temperley, Buenos Aires`. I´m `20 years old`, i can speak `English` and my natal language.
 - :computer: I’m currently studying at `UTN FRA (Facultad regional avellaneda)` in a `Tecnicatura unviersitaria en programación`.
 - :nerd_face: `ALWAYS` ready to learn new skills!
 <br>
